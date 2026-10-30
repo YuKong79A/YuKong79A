@@ -23,7 +23,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "yukong79",
-    "subtitle": "Arch + Hyprland ricing with Caelestia Shell",
+    "subtitle": "Junior Linux Ops · Arch + Hyprland + Caelestia",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -165,10 +165,16 @@
   "buttons": {
     "items": [
       {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://yukong.cc.cd",
+        "style": "filled"
+      },
+      {
         "icon": "book_2",
         "label": "All repositories",
         "url": "https://github.com/YuKong79A?tab=repositories",
-        "style": "filled"
+        "style": "tonal"
       }
     ]
   }
