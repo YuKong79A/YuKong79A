@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "login": "YuKong79A",
+  "seed": "#4285F4",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "yukong79",
+    "subtitle": "Arch + Hyprland ricing with Caelestia Shell",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "terminal",
+        "label": "Arch Linux"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "desktop_windows",
+        "label": "Hyprland + Caelestia on Arch / linux-zen"
+      },
+      {
+        "icon": "folder_special",
+        "label": "dotfile-cae: Hyprland, Midnight & Caelestia configs"
+      },
+      {
+        "icon": "wallpaper",
+        "label": "wallpaper: 2000+ theme-sorted desktop wallpapers"
+      },
+      {
+        "icon": "code",
+        "label": "Surge YouTube dualsubs & Edge TTS forwarder"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Desktop",
+        "items": [
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Shell"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Code",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "dotfile-cae",
+      "wallpaper",
+      "Surge-rule",
+      "read-aloud",
+      "dotfile-noc"
+    ],
+    "overrides": {
+      "dotfile-cae": {
+        "description": "Arch Hyprland + Caelestia / Midnight Shell dotfiles"
+      },
+      "wallpaper": {
+        "description": "Theme-sorted wallpaper collection for Hyprland"
+      },
+      "Surge-rule": {
+        "description": "Surge module: YouTube dual Chinese/English subs"
+      },
+      "read-aloud": {
+        "description": "Microsoft Edge TTS forwarder (Workers/Vercel/Node)"
+      },
+      "dotfile-noc": {
+        "description": "Hyprland + Noctalia dotfiles for CachyOS/Arch"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/YuKong79A?tab=repositories",
+        "style": "filled"
+      }
+    ]
+  }
+}
