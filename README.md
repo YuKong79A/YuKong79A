@@ -6,7 +6,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/YuKong79A/wallpaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wallpaper-dark.svg"><img src="assets/project-wallpaper-light.svg" width="49%" alt="wallpaper"></picture></a>
+<a href="https://github.com/YuKong79A/wallpaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wallpaper-dark.svg"><img src="assets/project-wallpaper-light.svg" width="49%" alt="wallpaper"></picture></a>&nbsp;<a href="https://github.com/YuKong79A/YuKong79A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-yukong79a-dark.svg"><img src="assets/project-yukong79a-light.svg" width="49%" alt="YuKong79A"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
@@ -14,7 +14,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://github.com/YuKong79A?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>
+<a href="https://yukong.cc.cd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/YuKong79A?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=YuKong79A"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
