@@ -1,37 +1,29 @@
 {
- "key": "29e6affa",
- "stars": 1,
- "contributions": 216,
- "repos": 8,
+ "key": "3ddcdb37",
+ "stars": 0,
+ "contributions": 132,
+ "repos": 6,
  "followers": 1,
  "languages": [
-  [
-   "Lua",
-   134882
-  ],
-  [
-   "Python",
-   74869
-  ],
   [
    "TypeScript",
    56775
   ],
   [
-   "QML",
-   18387
-  ],
-  [
-   "GLSL",
-   12885
-  ],
-  [
-   "CSS",
-   7734
+   "Lua",
+   50019
   ],
   [
    "HTML",
    6071
+  ],
+  [
+   "CSS",
+   5220
+  ],
+  [
+   "JavaScript",
+   4792
   ]
  ],
  "days": [
@@ -129,7 +121,7 @@
  ],
  "streak": {
   "current": 0,
-  "longest": 7
+  "longest": 4
  },
  "pins": [
   {
@@ -152,15 +144,6 @@
   }
  ],
  "all": [
-  {
-   "name": "dotfile-cae",
-   "url": "https://github.com/YuKong79A/dotfile-cae",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Shell",
-   "topics": []
-  },
   {
    "name": "resume-site",
    "url": "https://github.com/YuKong79A/resume-site",
@@ -186,15 +169,6 @@
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "yukong-cae",
-   "url": "https://github.com/YuKong79A/yukong-cae",
-   "text": "A fluid, morphing shell for your Linux desktop",
-   "fork": true,
-   "stars": 0,
-   "language": "QML",
    "topics": []
   },
   {
