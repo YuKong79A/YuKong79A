@@ -1,29 +1,29 @@
 {
- "key": "2c8dc1cd",
+ "key": "edb5f664",
  "stars": 0,
- "contributions": 132,
- "repos": 6,
+ "contributions": 125,
+ "repos": 5,
  "followers": 1,
  "languages": [
-  [
-   "TypeScript",
-   56775
-  ],
   [
    "Lua",
    50019
   ],
   [
+   "TypeScript",
+   29865
+  ],
+  [
    "HTML",
-   6071
+   5269
   ],
   [
    "CSS",
-   5220
+   4910
   ],
   [
    "JavaScript",
-   4792
+   3812
   ]
  ],
  "days": [
@@ -54,7 +54,7 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 5,
     "day": 30,
     "today": false
    },
@@ -148,15 +148,6 @@
   }
  ],
  "all": [
-  {
-   "name": "resume-site",
-   "url": "https://github.com/YuKong79A/resume-site",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
   {
    "name": "YuKong79A",
    "url": "https://github.com/YuKong79A/YuKong79A",
