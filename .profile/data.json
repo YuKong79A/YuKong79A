@@ -1,5 +1,5 @@
 {
- "key": "caf9f29",
+ "key": "4614c0ea",
  "stars": 0,
  "contributions": 125,
  "repos": 5,
@@ -105,9 +105,13 @@
    {
     "c": 0,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
