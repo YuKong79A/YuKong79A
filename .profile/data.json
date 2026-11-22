@@ -1,29 +1,29 @@
 {
- "key": "aa29be53",
- "stars": 2,
- "contributions": 127,
- "repos": 6,
+ "key": "ca494d24",
+ "stars": 0,
+ "contributions": 125,
+ "repos": 5,
  "followers": 2,
  "languages": [
   [
-   "JavaScript",
-   253873
-  ],
-  [
    "Lua",
    50019
-  ],
-  [
-   "HTML",
-   40561
   ],
   [
    "TypeScript",
    29865
   ],
   [
+   "HTML",
+   5269
+  ],
+  [
    "CSS",
    4910
+  ],
+  [
+   "JavaScript",
+   3812
   ]
  ],
  "days": [
@@ -96,7 +96,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 21,
     "today": false
    }
@@ -116,7 +116,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [
@@ -140,15 +140,6 @@
   }
  ],
  "all": [
-  {
-   "name": "hetou-ticket-grabber",
-   "url": "https://github.com/YuKong79A/hetou-ticket-grabber",
-   "text": "",
-   "fork": false,
-   "stars": 2,
-   "language": "JavaScript",
-   "topics": []
-  },
   {
    "name": "YuKong79A",
    "url": "https://github.com/YuKong79A/YuKong79A",
