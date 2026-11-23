@@ -1,5 +1,5 @@
 {
- "key": "ca494d24",
+ "key": "3ae6ee5",
  "stars": 0,
  "contributions": 125,
  "repos": 5,
@@ -105,9 +105,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
